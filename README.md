@@ -39,8 +39,7 @@ This project involves analyzing agricultural data using **Power BI** to visualiz
 ## Contribution
 Contributions are welcome! Fork the repository and submit pull requests with improvements.
 
-## License
-This project is licensed under the **MIT License**.
+
 
 ---
 **Author**: Lokesh Bapte  
